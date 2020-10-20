@@ -7,10 +7,10 @@ Puede probar el codigo funcional en el siguiente link
 
 Para probar una busqueda hacerlo de la siguientre forma, ejemplo:
 
-* hen and dog
-* abear or able
-* nurse
-* able and abear an dog and book
+* hen and dog - [link](http://34.123.107.193/index.php?num=10&text=hen+and+dog)
+* abear or able - [link](http://34.123.107.193/index.php?num=10&text=abear+or+able)
+* nurse - [link](http://34.123.107.193/index.php?num=10&text=nurse)
+* able and abear and dog and book - [link](http://34.123.107.193/index.php?num=10&text=able+and+abear+and+dog+and+book)
 
 # Topicos_DB
 
