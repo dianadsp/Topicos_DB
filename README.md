@@ -24,4 +24,4 @@ _test2.py-> Codigo de busqueda de indice inverido y busqueda de similitud_
 
 _test_t.py-> Generador de Archivos que contiene los datos de similitud con todos los documentos_
 
-
+_generate_index_inv.py-> Generador de Indice Invertido_
